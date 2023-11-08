@@ -1,0 +1,59 @@
+! Generated from the Julia code in the `custom-color-schemes` Git repository
+
+! background
+*background: #ffe9c7
+
+! foreground
+*foreground: #566367
+
+! cursor
+*cursorColor: #566367
+
+! black
+*color0: #000000
+
+! red
+*color1: #ca0016
+
+! green
+*color2: #009c2a
+
+! yellow
+*color3: #b47800
+
+! blue
+*color4: #0060de
+
+! magenta
+*color5: #ad31b8
+
+! cyan
+*color6: #009eab
+
+! white
+*color7: #aaa297
+
+! bright_black
+*color8: #002634
+
+! bright_red
+*color9: #ff5e5e
+
+! bright_green
+*color10: #00ea41
+
+! bright_yellow
+*color11: #ffb600
+
+! bright_blue
+*color12: #0095ff
+
+! bright_magenta
+*color13: #ff68ff
+
+! bright_cyan
+*color14: #00e3f3
+
+! bright_white
+*color15: #dacab3
+
