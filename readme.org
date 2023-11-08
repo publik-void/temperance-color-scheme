@@ -12,11 +12,11 @@ I recommend ~temperance-day~ when working in well-lit environments and
 The color scheme is based on the following design specifications:
 - Have a dark and a light version
 - Have a cold (blue-tinted) and a warm (orange-tinted) version
-  …special focus should be on the warm version to make sure it reduces blue
+  - special focus should be on the warm version to make sure it reduces blue
   light exposure from usually blue-heavy screens somewhat
 - Have a deliberately decreased contrast range
 - Have two extra variants with maximized contrast (full black and white)
-  …e.g. for working in the sun on a not-so-bright display
+  - e.g. for working in the sun on a not-so-bright display
 - To keep some distance between foreground and background colors, even without
   full contrast, use roughly opposite color hues
 - Create a sort of color intensity gradient with the black and white colors
@@ -38,7 +38,7 @@ light exposure.
 
 In my humble opinion, the color scheme should be the responsibility of the
 terminal emulator, while applications running inside of it should work with the
-abstracted named colors. As such, I recommend [[https://github.com/jeffkreeftmeijer/vim-dim][vim-dim]].
+abstracted named colors. Thus, I recommend [[https://github.com/jeffkreeftmeijer/vim-dim][vim-dim]].
 Temperance has been designed to work with it, though I do apply [[https://github.com/publik-void/config-nvim/blob/master/include/my_dim_colorscheme.vim][some minor modifications in my vim configuration]].
 
 ** Re-building
