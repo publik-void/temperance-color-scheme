@@ -26,13 +26,13 @@ The color scheme is based on the following design specifications:
   naming
 - Work in (polar) CIELAB colorspace
 
-This set of specifications almost invariably creates a
-[[https://ethanschoonover.com/solarized][Solarized]]-like colorscheme, plus a
-complement of warm dark and cold light versions. (And then of course the
-high-contrast versions.) While having been inspired by Solarized, the
-specifications have not been chosen to simply make a recreation of it. The main
-goals of this colorscheme are to play nicely with terminals and to be
-eye-friendly, especially in terms of blue light exposure.
+This set of specifications almost invariably creates a [[https://ethanschoonover.com/solarized][Solarized]]-like
+colorscheme, plus a complement of warm dark and cold light versions. (And then
+of course the high-contrast versions.) While having been inspired by Solarized,
+the specifications have not been chosen to simply make a recreation of it (or
+to even try to live up to it). The main goals of this colorscheme are to play
+nicely with terminals and to be eye-friendly, especially with regards to of blue
+light exposure.
 
 ** Usage as a Vim color scheme
 
