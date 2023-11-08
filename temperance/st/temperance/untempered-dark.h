@@ -1,4 +1,4 @@
-// Generated from the Julia code in the `custom-color-schemes` Git repository
+// Generated from the Julia code in the `ColorSchemeExporter.jl` Git repository
 
 // Terminal colors
 static const char *colorname[] = {

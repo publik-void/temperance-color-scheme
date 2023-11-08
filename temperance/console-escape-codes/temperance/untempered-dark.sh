@@ -1,6 +1,6 @@
 #!/bin/sh
 
-# Generated from the Julia code in the `custom-color-schemes` Git repository
+# Generated from the Julia code in the `ColorSchemeExporter.jl` Git repository
 
 printf "]P1ca0016" # red
 printf "]P2009c2a" # green
