@@ -268,4 +268,10 @@ write_files(
   "temperance-dawn"  => cslc,
   "untempered-light" => cslh,
   "untempered-dark"  => csdh;
-  name = "temperance", out_dir = @__DIR__)
+  name = "temperance", out_dir = @__DIR__,
+  basic_html_stylesheet_light_dark_combos =
+    (("temperance-dawn" , "temperance-dusk" ),
+     ("temperance-dawn" , "temperance-night"),
+     ("temperance-day"  , "temperance-dusk" ),
+     ("temperance-day"  , "temperance-night"),
+     ("untempered-light", "untempered-dark" )))

@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
+<!-- Generated from the Julia code in the `ColorSchemeExporter.jl` Git repository.
+Available at: https://github.com/publik-void/ColorSchemeExporter.jl.git
+
+Color scheme group: "temperance"
+Color scheme flavor: "temperance-night" -->
 <dict>
   <key>Ansi 0 Color</key>
     <dict>

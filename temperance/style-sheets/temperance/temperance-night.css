@@ -1,0 +1,35 @@
+/* Generated from the Julia code in the `ColorSchemeExporter.jl` Git repository.
+Available at: https://github.com/publik-void/ColorSchemeExporter.jl.git
+
+Color scheme group: "temperance"
+Color scheme flavor: "temperance-night" */
+
+:root {
+  --temperance-night-background: #002634ff;
+  --temperance-night-foreground: #999389ff;
+  --temperance-night-black: #5d6c72ff;
+  --temperance-night-white: #fffff1ff;
+  --temperance-night-bright-black: #284b55ff;
+  --temperance-night-bright-white: #ffe9c7ff;
+  --temperance-night-red: #ca0016ff;
+  --temperance-night-yellow: #b47800ff;
+  --temperance-night-green: #009c2aff;
+  --temperance-night-cyan: #009eabff;
+  --temperance-night-blue: #0060deff;
+  --temperance-night-magenta: #ad31b8ff;
+  --temperance-night-bright-red: #ff5e5eff;
+  --temperance-night-bright-yellow: #ffb600ff;
+  --temperance-night-bright-green: #00ea41ff;
+  --temperance-night-bright-cyan: #00e3f3ff;
+  --temperance-night-bright-blue: #0095ffff;
+  --temperance-night-bright-magenta: #ff68ffff;
+  --temperance-night-badge: #99938980;
+  --temperance-night-cursor: #999389ff;
+  --temperance-night-cursor-reverse: #002634ff;
+  --temperance-night-bold: #999389ff;
+  --temperance-night-cursor-guide: #002634ff;
+  --temperance-night-cursor-text: #002634ff;
+  --temperance-night-link: #999389ff;
+  --temperance-night-selection: #999389ff;
+  --temperance-night-selected-text: #002634ff;
+}

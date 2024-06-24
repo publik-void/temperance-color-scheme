@@ -1,6 +1,10 @@
 #!/bin/sh
 
-# Generated from the Julia code in the `ColorSchemeExporter.jl` Git repository
+# Generated from the Julia code in the `ColorSchemeExporter.jl` Git repository.
+# Available at: https://github.com/publik-void/ColorSchemeExporter.jl.git
+# 
+# Color scheme group: "temperance"
+# Color scheme flavor: "untempered-light"
 
 printf "]P1ca0016" # red
 printf "]P2009c2a" # green

@@ -1,0 +1,112 @@
+/* Generated from the Julia code in the `ColorSchemeExporter.jl` Git repository.
+Available at: https://github.com/publik-void/ColorSchemeExporter.jl.git
+
+Color scheme group: "temperance"
+Color scheme flavor: "temperance-day", "temperance-dusk" */
+
+:root {
+  --temperance-day-background: #ffe9c7ff;
+  --temperance-day-foreground: #566367ff;
+  --temperance-day-black: #000000ff;
+  --temperance-day-white: #aaa297ff;
+  --temperance-day-bright-black: #002634ff;
+  --temperance-day-bright-white: #dacab3ff;
+  --temperance-day-red: #ca0016ff;
+  --temperance-day-yellow: #b47800ff;
+  --temperance-day-green: #009c2aff;
+  --temperance-day-cyan: #009eabff;
+  --temperance-day-blue: #0060deff;
+  --temperance-day-magenta: #ad31b8ff;
+  --temperance-day-bright-red: #ff5e5eff;
+  --temperance-day-bright-yellow: #ffb600ff;
+  --temperance-day-bright-green: #00ea41ff;
+  --temperance-day-bright-cyan: #00e3f3ff;
+  --temperance-day-bright-blue: #0095ffff;
+  --temperance-day-bright-magenta: #ff68ffff;
+  --temperance-day-badge: #56636780;
+  --temperance-day-cursor: #566367ff;
+  --temperance-day-cursor-reverse: #ffe9c7ff;
+  --temperance-day-bold: #566367ff;
+  --temperance-day-cursor-guide: #ffe9c7ff;
+  --temperance-day-cursor-text: #ffe9c7ff;
+  --temperance-day-link: #566367ff;
+  --temperance-day-selection: #566367ff;
+  --temperance-day-selected-text: #ffe9c7ff;
+}
+
+:root {
+  --temperance-dusk-background: #301202ff;
+  --temperance-dusk-foreground: #9c9ea8ff;
+  --temperance-dusk-black: #756762ff;
+  --temperance-dusk-white: #ffffffff;
+  --temperance-dusk-bright-black: #5a4038ff;
+  --temperance-dusk-bright-white: #eef6ffff;
+  --temperance-dusk-red: #ca0016ff;
+  --temperance-dusk-yellow: #b47800ff;
+  --temperance-dusk-green: #009c2aff;
+  --temperance-dusk-cyan: #009eabff;
+  --temperance-dusk-blue: #0060deff;
+  --temperance-dusk-magenta: #ad31b8ff;
+  --temperance-dusk-bright-red: #ff5e5eff;
+  --temperance-dusk-bright-yellow: #ffb600ff;
+  --temperance-dusk-bright-green: #00ea41ff;
+  --temperance-dusk-bright-cyan: #00e3f3ff;
+  --temperance-dusk-bright-blue: #0095ffff;
+  --temperance-dusk-bright-magenta: #ff68ffff;
+  --temperance-dusk-badge: #9c9ea880;
+  --temperance-dusk-cursor: #9c9ea8ff;
+  --temperance-dusk-cursor-reverse: #301202ff;
+  --temperance-dusk-bold: #9c9ea8ff;
+  --temperance-dusk-cursor-guide: #301202ff;
+  --temperance-dusk-cursor-text: #301202ff;
+  --temperance-dusk-link: #9c9ea8ff;
+  --temperance-dusk-selection: #9c9ea8ff;
+  --temperance-dusk-selected-text: #301202ff;
+}
+
+@media (prefers-color-scheme: light) {
+  :root {
+    background: var(--temperance-day-background);
+    color: var(--temperance-day-foreground);
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    color: var(--temperance-day-white);
+  }
+
+  a:link {
+    color: var(--temperance-day-blue);
+  }
+
+  a:visited {
+    color: var(--temperance-day-magenta);
+  }
+
+  a:active {
+    color: var(--temperance-day-red);
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    background: var(--temperance-dusk-background);
+    color: var(--temperance-dusk-foreground);
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    color: var(--temperance-dusk-black);
+  }
+
+  a:link {
+    color: var(--temperance-dusk-blue);
+  }
+
+  a:visited {
+    color: var(--temperance-dusk-magenta);
+  }
+
+  a:active {
+    color: var(--temperance-dusk-red);
+  }
+}
+

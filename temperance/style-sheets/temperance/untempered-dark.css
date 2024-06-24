@@ -1,0 +1,35 @@
+/* Generated from the Julia code in the `ColorSchemeExporter.jl` Git repository.
+Available at: https://github.com/publik-void/ColorSchemeExporter.jl.git
+
+Color scheme group: "temperance"
+Color scheme flavor: "untempered-dark" */
+
+:root {
+  --untempered-dark-background: #000000ff;
+  --untempered-dark-black: #303030ff;
+  --untempered-dark-bright-black: #5e5e5eff;
+  --untempered-dark-white: #919191ff;
+  --untempered-dark-bright-white: #c6c6c6ff;
+  --untempered-dark-foreground: #ffffffff;
+  --untempered-dark-red: #ca0016ff;
+  --untempered-dark-yellow: #b47800ff;
+  --untempered-dark-green: #009c2aff;
+  --untempered-dark-cyan: #009eabff;
+  --untempered-dark-blue: #0060deff;
+  --untempered-dark-magenta: #ad31b8ff;
+  --untempered-dark-bright-red: #ff5e5eff;
+  --untempered-dark-bright-yellow: #ffb600ff;
+  --untempered-dark-bright-green: #00ea41ff;
+  --untempered-dark-bright-cyan: #00e3f3ff;
+  --untempered-dark-bright-blue: #0095ffff;
+  --untempered-dark-bright-magenta: #ff68ffff;
+  --untempered-dark-badge: #ffffff80;
+  --untempered-dark-cursor: #ffffffff;
+  --untempered-dark-cursor-reverse: #000000ff;
+  --untempered-dark-bold: #ffffffff;
+  --untempered-dark-cursor-guide: #000000ff;
+  --untempered-dark-cursor-text: #000000ff;
+  --untempered-dark-link: #ffffffff;
+  --untempered-dark-selection: #ffffffff;
+  --untempered-dark-selected-text: #000000ff;
+}

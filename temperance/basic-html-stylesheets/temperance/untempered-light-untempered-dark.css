@@ -1,0 +1,112 @@
+/* Generated from the Julia code in the `ColorSchemeExporter.jl` Git repository.
+Available at: https://github.com/publik-void/ColorSchemeExporter.jl.git
+
+Color scheme group: "temperance"
+Color scheme flavor: "untempered-light", "untempered-dark" */
+
+:root {
+  --untempered-light-foreground: #000000ff;
+  --untempered-light-black: #303030ff;
+  --untempered-light-bright-black: #5e5e5eff;
+  --untempered-light-white: #919191ff;
+  --untempered-light-bright-white: #c6c6c6ff;
+  --untempered-light-background: #ffffffff;
+  --untempered-light-red: #ca0016ff;
+  --untempered-light-yellow: #b47800ff;
+  --untempered-light-green: #009c2aff;
+  --untempered-light-cyan: #009eabff;
+  --untempered-light-blue: #0060deff;
+  --untempered-light-magenta: #ad31b8ff;
+  --untempered-light-bright-red: #ff5e5eff;
+  --untempered-light-bright-yellow: #ffb600ff;
+  --untempered-light-bright-green: #00ea41ff;
+  --untempered-light-bright-cyan: #00e3f3ff;
+  --untempered-light-bright-blue: #0095ffff;
+  --untempered-light-bright-magenta: #ff68ffff;
+  --untempered-light-badge: #00000080;
+  --untempered-light-cursor: #000000ff;
+  --untempered-light-cursor-reverse: #ffffffff;
+  --untempered-light-bold: #000000ff;
+  --untempered-light-cursor-guide: #ffffffff;
+  --untempered-light-cursor-text: #ffffffff;
+  --untempered-light-link: #000000ff;
+  --untempered-light-selection: #000000ff;
+  --untempered-light-selected-text: #ffffffff;
+}
+
+:root {
+  --untempered-dark-background: #000000ff;
+  --untempered-dark-black: #303030ff;
+  --untempered-dark-bright-black: #5e5e5eff;
+  --untempered-dark-white: #919191ff;
+  --untempered-dark-bright-white: #c6c6c6ff;
+  --untempered-dark-foreground: #ffffffff;
+  --untempered-dark-red: #ca0016ff;
+  --untempered-dark-yellow: #b47800ff;
+  --untempered-dark-green: #009c2aff;
+  --untempered-dark-cyan: #009eabff;
+  --untempered-dark-blue: #0060deff;
+  --untempered-dark-magenta: #ad31b8ff;
+  --untempered-dark-bright-red: #ff5e5eff;
+  --untempered-dark-bright-yellow: #ffb600ff;
+  --untempered-dark-bright-green: #00ea41ff;
+  --untempered-dark-bright-cyan: #00e3f3ff;
+  --untempered-dark-bright-blue: #0095ffff;
+  --untempered-dark-bright-magenta: #ff68ffff;
+  --untempered-dark-badge: #ffffff80;
+  --untempered-dark-cursor: #ffffffff;
+  --untempered-dark-cursor-reverse: #000000ff;
+  --untempered-dark-bold: #ffffffff;
+  --untempered-dark-cursor-guide: #000000ff;
+  --untempered-dark-cursor-text: #000000ff;
+  --untempered-dark-link: #ffffffff;
+  --untempered-dark-selection: #ffffffff;
+  --untempered-dark-selected-text: #000000ff;
+}
+
+@media (prefers-color-scheme: light) {
+  :root {
+    background: var(--untempered-light-background);
+    color: var(--untempered-light-foreground);
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    color: var(--untempered-light-white);
+  }
+
+  a:link {
+    color: var(--untempered-light-blue);
+  }
+
+  a:visited {
+    color: var(--untempered-light-magenta);
+  }
+
+  a:active {
+    color: var(--untempered-light-red);
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    background: var(--untempered-dark-background);
+    color: var(--untempered-dark-foreground);
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    color: var(--untempered-dark-black);
+  }
+
+  a:link {
+    color: var(--untempered-dark-blue);
+  }
+
+  a:visited {
+    color: var(--untempered-dark-magenta);
+  }
+
+  a:active {
+    color: var(--untempered-dark-red);
+  }
+}
+

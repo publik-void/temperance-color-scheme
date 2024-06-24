@@ -1,0 +1,35 @@
+/* Generated from the Julia code in the `ColorSchemeExporter.jl` Git repository.
+Available at: https://github.com/publik-void/ColorSchemeExporter.jl.git
+
+Color scheme group: "temperance"
+Color scheme flavor: "temperance-dawn" */
+
+:root {
+  --temperance-dawn-background: #eef6ffff;
+  --temperance-dawn-foreground: #685b58ff;
+  --temperance-dawn-black: #000000ff;
+  --temperance-dawn-white: #a1a3afff;
+  --temperance-dawn-bright-black: #301202ff;
+  --temperance-dawn-bright-white: #c6cbe5ff;
+  --temperance-dawn-red: #ca0016ff;
+  --temperance-dawn-yellow: #b47800ff;
+  --temperance-dawn-green: #009c2aff;
+  --temperance-dawn-cyan: #009eabff;
+  --temperance-dawn-blue: #0060deff;
+  --temperance-dawn-magenta: #ad31b8ff;
+  --temperance-dawn-bright-red: #ff5e5eff;
+  --temperance-dawn-bright-yellow: #ffb600ff;
+  --temperance-dawn-bright-green: #00ea41ff;
+  --temperance-dawn-bright-cyan: #00e3f3ff;
+  --temperance-dawn-bright-blue: #0095ffff;
+  --temperance-dawn-bright-magenta: #ff68ffff;
+  --temperance-dawn-badge: #685b5880;
+  --temperance-dawn-cursor: #685b58ff;
+  --temperance-dawn-cursor-reverse: #eef6ffff;
+  --temperance-dawn-bold: #685b58ff;
+  --temperance-dawn-cursor-guide: #eef6ffff;
+  --temperance-dawn-cursor-text: #eef6ffff;
+  --temperance-dawn-link: #685b58ff;
+  --temperance-dawn-selection: #685b58ff;
+  --temperance-dawn-selected-text: #eef6ffff;
+}

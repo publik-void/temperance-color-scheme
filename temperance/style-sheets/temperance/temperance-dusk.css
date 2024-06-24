@@ -1,0 +1,35 @@
+/* Generated from the Julia code in the `ColorSchemeExporter.jl` Git repository.
+Available at: https://github.com/publik-void/ColorSchemeExporter.jl.git
+
+Color scheme group: "temperance"
+Color scheme flavor: "temperance-dusk" */
+
+:root {
+  --temperance-dusk-background: #301202ff;
+  --temperance-dusk-foreground: #9c9ea8ff;
+  --temperance-dusk-black: #756762ff;
+  --temperance-dusk-white: #ffffffff;
+  --temperance-dusk-bright-black: #5a4038ff;
+  --temperance-dusk-bright-white: #eef6ffff;
+  --temperance-dusk-red: #ca0016ff;
+  --temperance-dusk-yellow: #b47800ff;
+  --temperance-dusk-green: #009c2aff;
+  --temperance-dusk-cyan: #009eabff;
+  --temperance-dusk-blue: #0060deff;
+  --temperance-dusk-magenta: #ad31b8ff;
+  --temperance-dusk-bright-red: #ff5e5eff;
+  --temperance-dusk-bright-yellow: #ffb600ff;
+  --temperance-dusk-bright-green: #00ea41ff;
+  --temperance-dusk-bright-cyan: #00e3f3ff;
+  --temperance-dusk-bright-blue: #0095ffff;
+  --temperance-dusk-bright-magenta: #ff68ffff;
+  --temperance-dusk-badge: #9c9ea880;
+  --temperance-dusk-cursor: #9c9ea8ff;
+  --temperance-dusk-cursor-reverse: #301202ff;
+  --temperance-dusk-bold: #9c9ea8ff;
+  --temperance-dusk-cursor-guide: #301202ff;
+  --temperance-dusk-cursor-text: #301202ff;
+  --temperance-dusk-link: #9c9ea8ff;
+  --temperance-dusk-selection: #9c9ea8ff;
+  --temperance-dusk-selected-text: #301202ff;
+}
